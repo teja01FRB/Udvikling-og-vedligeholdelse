@@ -12,6 +12,7 @@ Har du en ide til et større udviklingsprojekt, som du vurderer vil komme mange 
 ## Mindre udviklingsprojekter
 Har du en ide til et mindre udviklingsprojekt, som du gerne vil kommunikere på denne side, så tag fat i MapCentia.
 Det vil så blive oprettet under ”Udvikling og vedligeholdelse > Mindre udviklingsprojekter”, hvor status på udviklingsprojektet løbende kan følges.
+ * Vi ser på Kort og Webtilgængelighed - det er pt. i en udredningsfase
 
 ## Vedligeholdelsesprojekter
 Der er pt. gang i følgende vedligeholdelsesprojekter:
