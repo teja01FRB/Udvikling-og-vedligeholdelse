@@ -7,7 +7,7 @@ Har du en ide til et større udviklingsprojekt, som du vurderer vil komme mange 
 2. Bestyrelsen opretter udviklingsønsket under ”Udvikling og vedligeholdelse > Større udviklingsprojekter”, hvor status på udviklingsprojektet løbende kan følges.
 3. Der indhentes estimater.
 4. Udviklingsprojektet kommunikeres til brugergruppen med mulighed for at vise sin interesse i projektet / at være medfinansierende.
-5. Udvikling igangsættes.
+5. Udvikler udpeges og vikling igangsættes.
 
 ## Mindre udviklingsprojekter
 Har du en ide til et mindre udviklingsprojekt, som du gerne vil kommunikere på denne side, så tag fat i MapCentia.
