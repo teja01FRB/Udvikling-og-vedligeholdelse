@@ -1,7 +1,7 @@
 # Procedure for udvikling og vedligeholdelse
 Hvis gennemførelsen af et udviklingsprojekt har indflydelse på brugeroplevelsen af GC2/vidi skal forslaget til projektet gennem en fastlagt procedure. Proceduren skal sikre, at der skabes gennemsigtighed og alle konsekvenser af projektet belyses.
 
-Proceduren kan også anvendes hvis en bruger søger fællesfinancering til et udviklingsprojekt. Her må man forvente, at andre interesserede brugere vil stille krav om gennemsigtighed og belysning af konsekvenser.
+Proceduren kan også anvendes, hvis en bruger søger fællesfinancering til et udviklingsprojekt. Her må man forvente, at andre interesserede brugere vil stille krav om gennemsigtighed og belysning af konsekvenser.
 
 Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgørende for, hvorvidt det vil være underlagt proceduren. Det afgørende er, hvilke konsekvenser projektet medfører.
 
