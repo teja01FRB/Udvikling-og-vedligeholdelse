@@ -1,20 +1,20 @@
-# Udvikling og vedligeholdelse
-Det er her al aktivitet omkring udvikling og vedligeholdelse af GC2/Vidi sker.
+# Procedure for udvikling og vedligeholdelse
+Hvis gennemførelsen af et udviklingsprojekt har indflydelse på brugeroplevelsen af GC2/vidi skal forslaget til projektet gennem en fastlagt procedure. Proceduren skal sikre, at der skabes gennemsigtighed og alle konsekvenser af projektet belyses.
 
-## Større udviklingsprojekter
-Har du en ide til et større udviklingsprojekt, som du vurderer vil komme mange af GC2/Vidi brugerne til gavn, hvor det er oplagt at undersøge mulighederne for fællesfinansiering er trinene:
-1. Udfyld denne kravspecifikation [link] og send den til et af bestyrelsesmedlemmerne.
-2. Bestyrelsen opretter udviklingsønsket under ”Udvikling og vedligeholdelse > Større udviklingsprojekter”, hvor status på udviklingsprojektet løbende kan følges.
-3. Der indhentes estimater.
-4. Udviklingsprojektet kommunikeres til brugergruppen med mulighed for at vise sin interesse i projektet / at være medfinansierende.
-5. Udvikler udpeges og vikling igangsættes.
+Proceduren kan også anvendes hvis en bruger søger fællesfinancering til et udviklingsprojekt. Her må man forvente, at andre interesserede brugere vil stille krav om gennemsigtighed og belysning af konsekvenser.
 
-## Mindre udviklingsprojekter
-Har du en ide til et mindre udviklingsprojekt, som du gerne vil kommunikere på denne side, så tag fat i MapCentia.
-Det vil så blive oprettet under ”Udvikling og vedligeholdelse > Mindre udviklingsprojekter”, hvor status på udviklingsprojektet løbende kan følges.
- * Vi ser på Kort og Webtilgængelighed - det er pt. i en udredningsfase
+Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgørende for, hvorvidt det vil være underlagt proceduren. Det afgørende er, hvilke konsekvenser projektet medfører.
 
-## Vedligeholdelsesprojekter
+## Proceduren
+1. Opret en ny projektbeskrivelse under dette repository. Brug skabelonen (link). Eller forfat teksten i en mail og send den til bestyrelsen, som så vil oprette siden.
+2. Udviklerne vil herefter udfylde de mere tekniske dele af projektbeskrivelse. Fx sikkerhedsasspekterne og konsekvenserne for andre dele af systemet.
+3. Projektbeskrivelsen kommunikeres til brugergruppen med mulighed for at give sin mening til kende og input til projektet. Er fællesfinanicering en del af projekt kan interesse tilkendegives her.
+4. Udviklerne giver et estimat på omfanget af projektet.
+5. Bestyrelsen godkender udviklingsprojektet og planlægger release (i hvilke version regnes det med, at udviklingen bliver frigivet)
+4. Udvikler udpeges og udvikling igangsættes.
+
+
+## I gangværende udviklingsprojekter
 Der er pt. gang i følgende vedligeholdelsesprojekter:
 - X
 - Y
