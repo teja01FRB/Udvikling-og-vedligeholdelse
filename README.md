@@ -14,7 +14,7 @@ Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgø
 4. Udvikler udpeges og udvikling igangsættes.
 
 
-## I gangværende udviklingsprojekter
+## Igangværende udviklingsprojekter
 Der er pt. gang i følgende vedligeholdelsesprojekter:
 - X
 - Y
