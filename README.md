@@ -16,6 +16,4 @@ Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgø
 
 ## Igangværende udviklingsprojekter
 Der er pt. gang i følgende vedligeholdelsesprojekter:
-- X
-- Y
-- Z
+- Ingen
