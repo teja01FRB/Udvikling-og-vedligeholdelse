@@ -1,0 +1,19 @@
+# [4]: Vidi. Bør understøtte SSO
+
+## 1. Motivation
+
+Tror at der er en barriere for udbredelsen i den problemstilling, at der kun er intern brugerstyring i GC2/Vidi. En del organisationer vil stille det som krav, at der er mulighed for SSO, for at det passer ind i systemarkitekturen. Det kunne f.eks. være LDAP eller lignende. 
+
+## 2. Foreslået løsning
+
+## 3. Problemer med bagudkompatibilitet
+
+## 4. Sikkerhedsmæssige implikationer
+
+## 5. Performance-implikationer
+
+## 6. Dokumentationsbehov
+
+## 7. Arbejdsnoter
+
+## 8. Issue tracker
