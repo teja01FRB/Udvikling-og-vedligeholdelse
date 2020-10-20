@@ -1,6 +1,8 @@
-# 1: Vidi moduler skal kunne undlade at trigge deaktiveringsevents
+# 1: (udfases på grund af ny metode)Vidi moduler skal kunne undlade at trigge deaktiveringsevents
 
 ## 1. Motivation
+**Der er udviklet en ny metode, at løse problemet på, så udviklingsønsket fjernes, den nye metode er, at moduler for fremtiden selv husker deres tilstand, så de fremover slås til i samme tilstand som de var da de blev slået fra. Det indarbejdes efterhånden i de relevante moduler.** 
+
 Når der skiftes mellem moduler (lagtræ, baggrunds, tegning mv.) udløses en stop- og oprydningshandling som alle moduler lytter til. Det enkelte modul skal så sørge for at deaktivere og rydde op efter sig. Det betyder, at to eller flere moduler ikke kan være aktive på samme tid. Dette har gjort det mere enkelt at skrive moduler, da man ikke skal tage stilling til hvilke moduler, som ikke fungerer sammen ens eget module og derfor skal deaktiveres. Men det har den store ulempe, at hvis man fx laver en konfliktsøgning og gerne vil have skiftet baggrundskort, bliver konfliktsøgningen deativeret og nulstillet.   
 
 ## 2. Foreslået løsning
@@ -29,3 +31,6 @@ Extension developer dokumentationen skal opdateres.
 ## 7. Arbejdsnoter
 
 ## 8. Issue tracker
+
+## 9. Tilslutning til udviklingsønske
+
