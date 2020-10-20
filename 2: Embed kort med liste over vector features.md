@@ -29,3 +29,6 @@ Dokumentationen er udvides med den nye funktion.
 
 ## 8. Issue tracker
 
+## 9. Tilslutning til udviklingsønske
+Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
+
