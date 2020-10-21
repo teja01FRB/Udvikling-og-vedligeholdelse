@@ -14,4 +14,6 @@
 
 ## 7. Arbejdsnoter
 
-## 8. Issue tracker
+## 8. Issue tracker  
+
+## 9. Tilsagn/tilkendegivelse
