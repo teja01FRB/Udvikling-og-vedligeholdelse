@@ -12,9 +12,11 @@ Det kan dog være svært at tage hul på Datafordeleren, da der bl.a. er brugers
 Det vurderes derfor, som oplagt, at vi i fællesskab får Datafordeleren i brug.
 
 ## 2. Foreslået løsning
-Det foreslås, at der tages udgangspunkt i nogle få konkrete use cases, hvor der udpeges nogle relevante datakilder, som det giver mening at koble.
+Det foreslås, at der nedsættes en arbejdsgruppe, som får indhentet og beskrevet nogle få konkrete use cases, hvor der udpeges nogle relevante datakilder, som det giver mening at koble.
 
 De høstede data fra Datafordeleren foreslås placeret på en fælles database-server, som gøres let tilgængelig for GC2/Vidi brugerne og deres GC2/Vidi installationer.
+
+Arbejdsgruppen vil løbende kommunikere/dokumentere erfaringerne, samt indsamle nye use cases og ønsker om ibrugtagning af flere af datakilderne på Datafordeleren, få estimeret opgaverne hos leverandører og stå for gennemførelsen af videreudviklingen.
 
 ## 3. Problemer med bagudkompatibilitet
 Ingen
