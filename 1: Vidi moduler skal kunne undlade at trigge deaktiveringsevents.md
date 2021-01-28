@@ -1,4 +1,4 @@
-# 1: (udfases på grund af ny metode) Vidi moduler skal kunne undlade at trigge deaktiveringsevents
+# 1: Vidi moduler skal kunne undlade at trigge deaktiveringsevents
 
 ## 1. Motivation
 **Der er udviklet en ny metode, at løse problemet på, så udviklingsønsket fjernes, den nye metode er, at moduler for fremtiden selv husker deres tilstand, så de fremover slås til i samme tilstand som de var da de blev slået fra. Det indarbejdes efterhånden i de relevante moduler.** 
