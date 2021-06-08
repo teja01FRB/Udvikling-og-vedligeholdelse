@@ -35,3 +35,5 @@ Extension developer dokumentationen skal opdateres.
 ## 9. Tilslutning til udviklingsønske
 Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
 
+Geo Fyn ++
+
