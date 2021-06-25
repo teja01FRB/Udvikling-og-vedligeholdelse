@@ -36,4 +36,6 @@ Der bør ifm. ibrugtagningen af Datafordeleren opbygges dokumentation indeholden
 ## 9. Tilsagn/tilkendegivelse
 Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
 
-Geo Fyn ++
+Geo Fyn ++  
+MapCentia ++  
+
