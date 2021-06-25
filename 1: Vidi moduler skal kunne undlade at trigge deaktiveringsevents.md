@@ -36,5 +36,5 @@ Extension developer dokumentationen skal opdateres.
 Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
 
 Geo Fyn ++  
-Kerteminde +  
+Kerteminde ++  
 MapCentia ++
