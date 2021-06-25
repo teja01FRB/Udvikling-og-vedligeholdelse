@@ -27,5 +27,4 @@ Skal dokumenteres.
 Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
 
 Geo Fyn ++  
-MapCentia ++ 
-dKerteminde ++
+MapCentia ++   Kerteminde ++
