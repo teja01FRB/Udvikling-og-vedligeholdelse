@@ -28,5 +28,5 @@ Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++
 
 Geo Fyn ++  
 MapCentia ++  
-Kerteminde ++
+Kerteminde ++  
 GEOsmeden ++
