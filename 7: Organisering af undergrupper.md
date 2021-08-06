@@ -1,4 +1,4 @@
-# [3]: Vidi. Organisering af undergrupper
+# [7]: Vidi. Organisering af undergrupper
 
 ## 1. Motivation
 
