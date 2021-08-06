@@ -1,4 +1,4 @@
-# 2: Embed kort med liste over vector features
+# [2]: Embed kort med liste over vector features
 
 ## 1. Motivation
 Med `embed.js` kan der indlejres et Vidi kort i en hvilken som helst hjemmeside. I mange tilfælde er det ønskelig at have et kort og en medfølgende liste. F.eks. hvis man ønsker at vise et kort over børnehaver i kommunen med tilhørende liste over børnehavernes navne, adresser og kontaktoplysninger. Den nye lovgivning ang. tilgængelighed på offentlige hjemmesider bestemmer også, at et kort ikke kan stå alene, når formålet er navigation – i dette tilfælde finde ud af hvor børnehaverne er placeret.
