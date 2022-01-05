@@ -1,4 +1,4 @@
-# [1]: Vidi moduler skal kunne undlade at trigge deaktiveringsevents
+# [1]: (I GANG) Vidi moduler skal kunne undlade at trigge deaktiveringsevents
 
 ## 1. Motivation
 
