@@ -20,6 +20,7 @@ Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgø
 
 ## Igangværende udviklingsprojekter
 Der er pt. gang i følgende vedligeholdelsesprojekter:
+
 2. Embed kort med liste over vektor features.
 3. Vidi. Panorer så infobox kan ses i kortet.
 7. Vidi. Organisering af undergrupper.
