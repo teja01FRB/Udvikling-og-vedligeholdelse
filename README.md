@@ -1,13 +1,13 @@
-## Igangværende udviklingsprojekter
+# Igangværende udviklingsprojekter
 
 Der er pt. gang i følgende projekter:
 
-[1] Vidi moduler skal kunne undlade at trigge deaktiveringsevents
-[2] Embed kort med liste over vector features.md
-[3] Vidi. Panorer så infobox kan ses i kortet.md
-[4] Vidi. Bør understøtte SSO.md
-[7] Vidi. Organisering af undergrupper. 
-
+[1] Vidi: Moduler skal kunne undlade at trigge deaktiveringsevents   
+[2] Vidi: Embed kort med liste over vector features   
+[3] Vidi: Panorer så infobox kan ses i kortet   
+[4] GC2: Bør understøtte SSO   
+[7] Vidi: Organisering af undergrupper    
+[8] Vidi: Lagsøgning   
 
 # Procedure for udvikling og vedligeholdelse
 Her er det meningen, at der opsamles ønsker til videreudvikling af GC2/Vidi, udvikling af nye moduler, tilpasning af eksisterende moduler eller ny funktionalitet, så der skabes en mulighed for at se hvilke ønsker andre har.
