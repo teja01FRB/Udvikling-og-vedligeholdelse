@@ -1,3 +1,10 @@
+## Igangværende udviklingsprojekter
+Der er pt. gang i følgende projekter:
+
+2 - Embed kort med liste over vektor features.  
+3 - Vidi. Panorer så infobox kan ses i kortet.  
+7 - Vidi. Organisering af undergrupper. 
+
 # Procedure for udvikling og vedligeholdelse
 Her er det meningen, at der opsamles ønsker til videreudvikling af GC2/Vidi, udvikling af nye moduler, tilpasning af eksisterende moduler eller ny funktionalitet, så der skabes en mulighed for at se hvilke ønsker andre har.
 
@@ -18,9 +25,4 @@ Det skal bemærkes, at det ikke er udviklingsprojektets størrelse, som er afgø
 4. Udvikler udpeges og udvikling igangsættes.
 
 
-## Igangværende udviklingsprojekter
-Der er pt. gang i følgende projekter:
-
-2 - Embed kort med liste over vektor features.  
-3 - Vidi. Panorer så infobox kan ses i kortet.  
-7 - Vidi. Organisering af undergrupper.  
+ 
